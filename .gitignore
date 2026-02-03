@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# HuggingFace / Transformers cache
+.cache/
+.huggingface/
+
+# Model outputs
+model/
+coder-lora/
+
+# OS
+.DS_Store
+Thumbs.db
